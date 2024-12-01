@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ReactJS and i'm about to learn about the Data structures
 - 💞️ I’m looking to collaborate on Git hub and linkedin with you guys
 - 📫 How to reach me?
--    You can text me in Linked in or reach me with my gmail which is shainworks033@gmail.com
+  You can text me in Linked in or reach me with my gmail which is shainworks033@gmail.com
 - 😄 Pronouns: He/His/Him. 
 
 
